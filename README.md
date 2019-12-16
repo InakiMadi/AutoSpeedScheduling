@@ -1,0 +1,3 @@
+# AutoSpeedScheduling
+
+Resuelve el problema de agenda dadas unas runs, comentaristas, roles...
